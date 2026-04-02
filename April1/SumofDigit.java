@@ -7,12 +7,12 @@ public class SumofDigit {
 	//using a Loop
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int n = sc.nextInt();
+		int n = sc.nextInt();//1
 		
-		int sum=0;
+		int sum=0;//5 + 4 + 3 + 2 + 1
 		while(n>0) {
 			sum= sum+ n%10;
-			n=n/10;
+			n=n/10;//
 		}
 		System.out.println(sum);
 

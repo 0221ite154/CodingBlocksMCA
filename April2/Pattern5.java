@@ -1,5 +1,10 @@
 package April2;
-
+/*
+ *      n=3
+ *      ***
+ *      ***
+ *      ***
+ */
 public class Pattern5 {
 	public static void main(String args[]) {
 		
