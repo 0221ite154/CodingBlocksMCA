@@ -1,6 +1,16 @@
 package April_16;
 
 public class Pattern23 {
+	/*
+n=4
+
+1       1
+12     21
+123   321
+1234 4321
+
+
+	 */
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
