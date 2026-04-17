@@ -1,6 +1,19 @@
 package April_17;
 
 public class Pattern25 {
+	
+	/*
+n=5
+*        *
+**      **
+***    ***
+****  ****
+**********
+****  ****
+***    ***
+**      **
+*        *
+	 */
 
 	public static void main(String[] args) {
 		// Upper Pattern
