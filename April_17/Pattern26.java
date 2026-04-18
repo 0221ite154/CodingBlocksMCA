@@ -1,8 +1,13 @@
 package April_17;
 
 /*
- * 
- * 
+ n=5
+    *****
+   *   *
+  *   *
+ *   *
+*****
+*
  */
 
 public class Pattern26 {
